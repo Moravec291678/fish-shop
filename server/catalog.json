@@ -1,0 +1,62 @@
+[
+  {
+    "id": "el1",
+    "name": "Parmička černopruhá",
+    "img": "https://img.superzoo.cz/galerie/1_71901/parmicka-cernopruha-crossocheilus-siamensis-4cm-original.jpg?v=1675838939",
+    "price": 39
+  },
+  {
+    "id": "el2",
+    "name": "Skalára amazonská",
+    "img": "https://img.superzoo.cz/galerie/1_71833/skalara-amazonska-pterophyllum-scalare-l-4-5cm-default.jpg?v=1675838928",
+    "price": 49
+  },
+  {
+    "id": "el3",
+    "name": "Gavůnek Boesmanův",
+    "img": "https://img.superzoo.cz/galerie/1_72498/gavunek-boesmanuv-melanotaenia-boesemani-5-5cm-default.png?v=1617125697",
+    "price": 99
+  },
+  {
+    "id": "el4",
+    "name": "Živorodka ostrotlamá balónová",
+    "img": "https://img.superzoo.cz/galerie/1_71863/zivorodka-ostrotlama-balonova-poecilia-spenops-balon-3cm-default.jpg?v=1675838933",
+    "price": 39
+  },
+  {
+    "id": "el5",
+    "name": "Pancéřníček kropenatý",
+    "img": "https://img.superzoo.cz/galerie/1_71908/pancernicek-kropenaty-hoplostenum-thoracatum-4-5cm-default.png?v=1614935497",
+    "price": 39
+  },
+  {
+    "id": "el6",
+    "name": "Tetra měděná",
+    "img": "https://img.superzoo.cz/galerie/1_71946/tetra-medena-hasemania-nana-marginata-2-5cm-default.png?v=1615213971",
+    "price": 19
+  },
+  {
+    "id": "el7",
+    "name": "Tetra konžská",
+    "img": "https://img.superzoo.cz/galerie/1_72238/tetra-konzska-phenacogrammus-interruptus-4-5cm-default.png?v=1616569513",
+    "price": 9
+  },
+  {
+    "id": "el8",
+    "name": "Parmička Schubertova",
+    "img": "https://img.superzoo.cz/galerie/1_72239/parmicka-schubertova-barbus-capoeta-schuberti-3-5cm-default.png?v=1616571219",
+    "price": 29
+  },
+  {
+    "id": "el9",
+    "name": "Krunýřovec zlatý",
+    "img": "https://img.superzoo.cz/galerie/1_71862/krunyrovec-zlaty-ancistrus-sp-gold-4cm-default.png?v=1614772954",
+    "price": 59
+  },
+  {
+    "id": "el10",
+    "name": "Sekavka pákistánská",
+    "img": "https://img.superzoo.cz/galerie/1_71966/sekavka-pakistanska-botia-lohachata-4cm-default.png?v=1615376141",
+    "price": 59
+  }
+]
